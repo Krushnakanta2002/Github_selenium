@@ -1,0 +1,9 @@
+<suite name="Suite1" verbose="1">
+
+  <test name="Regression1">
+    <classes>
+      <class name="org.hrms.testcsript.TC001_Login_Logout"/>
+      <class name="org.hrms.testcsript.TC002_AddEmployee"/>
+    </classes>
+  </test>
+</suite>
